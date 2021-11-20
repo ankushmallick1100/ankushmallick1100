@@ -12,7 +12,7 @@
 - 📫 How to reach me **ankushshuvo4@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
-
+<img src="https://tenor.com/view/hello-gif-19947459" \>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankushmallick2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushmallick2" height="30" width="40" /></a>
