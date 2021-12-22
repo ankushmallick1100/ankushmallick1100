@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushmallick1100" alt="ankushmallick1100" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ankushmallick2" target="blank"><img src="https://img.shields.io/twitter/follow/ankushmallick2?logo=twitter&style=for-the-badge" alt="ankushmallick2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ankushmallick2" target="blank"><img src="https://img.shields.io/twitter/follow/ankushmallick2?logo=twitter&style=for-the-badge" alt="ankushmallick1100" /></a> </p>
 
 - 🌱 I’m currently learning **B.Tech(Computer Science and Engineering)**
 
