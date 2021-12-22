@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Mallick</h1>
 <h3 align="center">I am currently studying B.Tech(Computer Science and Engineering) at JIS University,Kolkata.And I am a National Toycathon Winner 2021.</h3>
-<p> <img src="https://www.canva.com/design/DAEyVCU_tIo/YsQzjNjqRIB6oSZIs-2evQ/view?utm_content=DAEyVCU_tIo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" alt="ankushmallick1100" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushmallick1100&label=Profile%20views&color=0e75b6&style=flat" alt="ankushmallick1100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushmallick1100" alt="ankushmallick1100" /></a> </p>
