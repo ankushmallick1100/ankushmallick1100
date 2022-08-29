@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Ankush Mallick</h1>
 <h3 align="center">I am currently studying B.Tech(Computer Science and Engineering) at JIS University,Kolkata.And I am a National Toycathon Winner 2021. Interested in AI/ML and Web Developement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushmallick1100&label=Profile%20views&color=0e75b6&style=flat" alt="ankushmallick1100" /> </p>
