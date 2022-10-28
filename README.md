@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushmallick1100" alt="ankushmallick1100" /></a> </p>
 
+<br>
+[![@ankushmallick1100's Holopin board](https://holopin.me/ankushmallick1100)](https://holopin.io/@ankushmallick1100)
+<br> 
+
 <p align="left"> <a href="https://twitter.com/ankushmallick2" target="blank"><img src="https://img.shields.io/twitter/follow/ankushmallick2?logo=twitter&style=for-the-badge" alt="ankushmallick2" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
