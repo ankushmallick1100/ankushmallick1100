@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankushshuvo4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bKMtB3_2JJ9qMe3p75YSWE21KEykOCJH/view?usp=sharing](https://drive.google.com/file/d/1bKMtB3_2JJ9qMe3p75YSWE21KEykOCJH/view?usp=sharing)
+- 📄 Know about my experiences [Please check my resume](http://surl.li/ekipq)
 
 - ⚡ Fun fact **I think I am funny.**
 
