@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankushmallick1100](https://github.com/ankushmallick1100)
+- 👨‍💻 All of my projects are available at [Check my Projects](http://surl.li/ekipz)
 
 - 📫 How to reach me **ankushshuvo4@gmail.com**
 
