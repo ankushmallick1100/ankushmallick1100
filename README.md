@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankushmallick2" target="blank"><img src="https://img.shields.io/twitter/follow/ankushmallick2?logo=twitter&style=for-the-badge" alt="ankushmallick2" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Java**
 
 - 👨‍💻 All of my projects are available at [Check my Projects](http://surl.li/ekipz)
 
