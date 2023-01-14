@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+Myself+Ankush+Malick;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Hello%2C+Myself+Ankush+Malick;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
 
 <h3 align="center">I am currently studying B.Tech(Computer Science and Engineering) at JIS University,Kolkata.And I am a National Toycathon Winner 2021. Interested in AI/ML and Web Developement.</h3>
