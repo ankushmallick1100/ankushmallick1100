@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Java**
 
-- 👨‍💻 All of my projects are available at [Check my Projects](http://surl.li/ekipz)
+- 👨‍💻 All of my projects are available at [Projects](http://surl.li/ekipz)
 
-- 📫 How to reach me **ankushshuvo4@gmail.com**
+- 📫 How to reach me **ankushmallick7976@gmail.com**
 
 - 📄 Know about my experiences [Please check my resume](http://surl.li/ekipq)
 
