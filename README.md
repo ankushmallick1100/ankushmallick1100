@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+<br>
+[![An image of @ankushmallick1100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankushmallick1100)](https://holopin.io/@ankushmallick1100)
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankushmallick2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushmallick2" height="30" width="40" /></a>
