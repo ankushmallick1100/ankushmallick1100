@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+[![@ankushmallick1100's Holopin board](https://holopin.me/ankushmallick1100)](https://holopin.io/@ankushmallick1100)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
