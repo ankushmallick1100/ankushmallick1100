@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ankushmallick7976@gmail.com**
 
-- 📄 Know about my experiences [Please check my resume](shorturl.at/uAB39)
+- 📄 Know about my experiences [Please check my resume](https://rb.gy/pctqgk)
 
 - ⚡ Fun fact **I think I am funny.**
 
