@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think I am funny.**
 
 <br>
-[![An image of @ankushmallick1100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankushmallick1100)](https://holopin.io/@ankushmallick1100)
+[![@ankushmallick1100's Holopin board](https://holopin.me/ankushmallick1100)](https://holopin.io/@ankushmallick1100)
 <br>
 
 <h3 align="left">Connect with me:</h3>
