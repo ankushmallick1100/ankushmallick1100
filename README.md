@@ -52,3 +52,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="ankushmallick1100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushmallick1100&" alt="ankushmallick1100" /></p>
+
+<br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br>
