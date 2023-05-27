@@ -50,14 +50,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankushmallick1100&show_icons=true&locale=en&layout=compact" alt="ankushmallick1100" /></p><br>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankushmallick1100&show_icons=true&locale=en&layout=compact" alt="ankushmallick1100" /></p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="ankushmallick1100" /></p>
-
-<p><img align="left" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="ankushmallick1100" /></p><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushmallick1100&" alt="ankushmallick1100" /></p>
-
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="githubstat1" /></p>
 <br>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushmallick1100&" alt="githubstat1" /></p>
 <br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="githubstat3"/>
