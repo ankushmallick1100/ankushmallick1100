@@ -22,10 +22,12 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+<h3 align="left">🏆 HacktoberFest2022 Badges:</h3>
+
 [![@ankushmallick1100's Holopin board](https://holopin.me/ankushmallick1100)](https://holopin.io/@ankushmallick1100)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankushmallick2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushmallick2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ankush-mallick-4b8359202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankush-mallick-4b8359202/" height="30" width="40" /></a>
@@ -37,7 +39,7 @@
 <a href="https://leetcode.com/ankushmallick7976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ankushmallick7976/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming and Web Languages:</h3>
+<h3 align="left">💻 Programming and Web Languages:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -49,7 +51,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankushmallick1100&show_icons=true&locale=en&layout=compact" alt="ankushmallick1100" /></p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="githubstat1" /></p>
