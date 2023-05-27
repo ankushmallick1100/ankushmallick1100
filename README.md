@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=500&width=435&lines=Hello+Everyone%2C+Myself+Ankush+Mallick;B.tech+CSE+student+at+JIS+University;National+Toycathon+Winner+2021+India;Interested+in+AI%2FML+and+Web+Development;Love+Coding+and+Problem+Solver;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<p align='center'><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushmallick1100&label=Profile%20views&color=0e75b6&style=flat" alt="ankushmallick1100" /> </p>
 
