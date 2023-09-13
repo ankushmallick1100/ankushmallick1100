@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Java**
 
-- 👨‍💻 All of my projects are available [here](http://surl.li/ekipz)
-
 - 🌐 My Website - [please click here](https://ankushmallick.netlify.app/)
 
 - 📫 How to reach me **ankushmallick7976@gmail.com**
