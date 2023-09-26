@@ -51,6 +51,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="githubstat1" /></p>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushmallick1100&" alt="githubstat1" /></p>
-<br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="githubstat3"/>
