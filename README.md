@@ -49,5 +49,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankushmallick1100&show_icons=true&locale=en&layout=compact" alt="ankushmallick1100" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="githubstat1" /></p>
-<p align="right"><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="githubstat3"/></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushmallick1100&show_icons=true&locale=en" alt="githubstat1" /></p>
+<br><br>
+<p><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="githubstat3"/></p>
