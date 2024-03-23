@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushmallick1100&label=Profile%20views&color=0e75b6&style=flat" alt="ankushmallick1100" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankushmallick2" target="blank"><img src="https://img.shields.io/twitter/follow/ankushmallick2?logo=twitter&style=for-the-badge" alt="ankushmallick2" /></a> </p>
-
 - 🌱 Interested in **AI/ML and Web Development**
 
 - 🌐 My Website - [please click here](https://ankushmallick.netlify.app/)
