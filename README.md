@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ankushmallick7976@gmail.com**
 
-- 📄 Know about my experiences [please check my cv](https://drive.google.com/file/d/1SOOcC461hSuR_I01zDx1IIkHjnpv_ntp/view?usp=sharing)
+- 📄 Know about my experiences [please check my resume]( https://drive.google.com/file/d/1UVhrhxbUdODMoUZLazGHmJDWWtzXVGrj/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 
