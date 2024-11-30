@@ -10,8 +10,6 @@
 
 - 🌐 My Website - [please click here](https://ankushmallick.netlify.app/)
 
-- 📫 How to reach me **ankushmallick7976@gmail.com**
-
 - 📄 Know about my experiences [please check my resume]( https://drive.google.com/file/d/1UVhrhxbUdODMoUZLazGHmJDWWtzXVGrj/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
