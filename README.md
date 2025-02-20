@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushmallick1100" alt="ankushmallick1100" /></a> </p>
 
-- 🌱 Interested in **Web Development and Artificial Intelligence / Machine Learning**
+- 🌱 Interested in **Web Development and AI/ML**
 
-- 🌐 My Website - [please click here](https://ankushmallick.netlify.app/)
+- 🌐 My Website - [please click here](https://ankushmallick.netlify.app)
 
 - 📄 Know about my experiences [please check my resume]( https://drive.google.com/file/d/1UVhrhxbUdODMoUZLazGHmJDWWtzXVGrj/view?usp=sharing)
 
@@ -36,7 +36,7 @@
 <a href="https://www.codechef.com/users/amankush" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amankush" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Programming, Web Languages and tools:</h3>
+<h3 align="left">💻 Programming languages, Web languages and Other tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
