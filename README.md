@@ -8,10 +8,6 @@
 
 - 🌱 Interested in **Web Development and AI/ML**
 
-- 🌐 My Website - [please click here](https://ankushmallick.netlify.app)
-
-- 📄 Know about my experiences [please check my resume]( https://drive.google.com/file/d/1UVhrhxbUdODMoUZLazGHmJDWWtzXVGrj/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">🏆 HacktoberFest2022 Badges:</h3>
